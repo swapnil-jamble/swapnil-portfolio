@@ -33,9 +33,14 @@ function Nav() {
                         <a href="#contact" data-aos="fade-down" data-aos-duration="1500" data-aos-delay="700">Contact</a>
                     </div>
                     <div className="bars" onClick={activeNav}>
-                        <span></span>
-                        <span></span>
-                        <span></span>
+                    <input type="checkbox">
+                    <div className="menu-btn">
+                        <label for="menu-check">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </label>
+                    </div>
                     </div>
                 </header>
             </section>
