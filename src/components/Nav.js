@@ -33,7 +33,7 @@ function Nav() {
                         <a href="#contact" data-aos="fade-down" data-aos-duration="1500" data-aos-delay="700">Contact</a>
                     </div>
                     <div className="bars" onClick={activeNav}>
-                    <input type="checkbox">
+                    <input type="checkbox" id="menu-check"/>
                     <div className="menu-btn">
                         <label for="menu-check">
                             <span></span>
