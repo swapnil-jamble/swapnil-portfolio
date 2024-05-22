@@ -11,7 +11,7 @@ function Header(){
             <section id="home">
                 <div className='hero'>
                     <div className='hero-info'>
-                        <h1 data-aos="fade-right" data-aos-duration="1500" data-aos-delay="1000">Hi, I am <span>Shirole Urmila</span></h1>
+                        <h1 data-aos="fade-right" data-aos-duration="1500" data-aos-delay="1000">Hi, I am <span>Takate Urmila</span></h1>
                         <p data-aos="fade-right" data-aos-duration="1500" data-aos-delay="1100">Do the best you can until you know better . . .</p>
                         <div className='social-icons'>
                              <a href="https://www.linkedin.com/in/urmila-shirole-41b1b72b8/" target='_blank'><i className='fa-brands fa-linkedin' data-aos="fade" data-aos-duration="1500" data-aos-delay="1400"></i></a>
