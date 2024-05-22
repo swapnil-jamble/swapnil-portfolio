@@ -24,7 +24,9 @@
 }
 .navbar{
     padding-block: 15px;
-    background-color:transparent;
+    background-color:#000;
+    text-decoration: none;
+    border: none;
 }
 .navbar-nav .nav-item{
     display: flex;
@@ -55,6 +57,7 @@
     }
     .navbar-toggler{
         display:flex;
+        border:none;
     }
     .nav{
         position:absolute;
@@ -76,4 +79,4 @@
     .logo h2{
         font-size: 20px;
     }
-}
+} 
