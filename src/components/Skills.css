@@ -21,15 +21,16 @@
  }
 .skills .tech-icons{
     gap:50px;
-    margin-top: 50px;
+    margin-top: 20px;
     border:2px solid var(--main-color);
     height:150px;
     width:150px;
-    font-size: 80px;
+    font-size:80px;
     color:#fff;
     margin:20px;
     padding:30px;
-    transition: .6s;
+    align-items: center;
+    transition:.6s;
 }
 .skills .tech-icons:hover{
     border-color: var(--main-color);
@@ -57,7 +58,7 @@
 
 @media (max-width:500px){
 
-    .project-card div{
-        gap:5px;
+    .skill-cards{
+        width: 100%;
     }
 }
