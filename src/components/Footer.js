@@ -18,7 +18,7 @@ function Footer() {
                             </div>
                         </div>
                     </div>
-                    <div className='links' data-aos="fade" data-aos-duration="1500" data-aos-delay="500">
+                    <div className='links' data-aos="fade" data-aos-duration="1500" data-aos-delay="300">
                         <h3>Useful Links</h3>
                         <ul>
                             <li>
@@ -32,7 +32,7 @@ function Footer() {
                             </li>
                         </ul>
                     </div>
-                    <div className='links' data-aos="fade" data-aos-duration="1500" data-aos-delay="1000">
+                    <div className='links' data-aos="fade" data-aos-duration="1500" data-aos-delay="500">
                         <h3>Information</h3>
                         <ul>
                             <li>
