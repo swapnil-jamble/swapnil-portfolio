@@ -33,7 +33,7 @@ function Services(){
                         Read More <i className='fa-solid fa-arrow-right-long'></i>
                     </a>
                 </div>
-                <div className='services-card' data-aos="fade-left" data-aos-duration="1500" data-aos-delay="1000">
+                <div className='services-card' data-aos="fade-left" data-aos-duration="1500" data-aos-delay="100">
                     <i class="fa-solid fa-user-graduate" id="icon"></i>
                     <h3>Pune University</h3>
                     <p>Nashik, Maharashtra</p>
