@@ -7,7 +7,7 @@ function Footer() {
             <section>
                 <div className='footer'>
                     <div className='links' data-aos="fade" data-aos-duration="1500" data-aos-delay="100">
-                        <h1>Shirole Urmila</h1>
+                        <h1>Takate Urmila</h1>
                         <div>
                             <p>Do the best you can until you know better...</p>
                             <div className='social'>
