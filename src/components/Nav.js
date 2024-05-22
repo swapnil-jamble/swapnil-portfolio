@@ -9,8 +9,8 @@ function Nav() {
     return (
         <>
             <nav className="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
-                <div className="container-fluid">
-                    <a data-aos="fade" data-aos-duration="1500" className="navbar-brand" href="#">S.<span>Urmila</span></a>
+                <div className="container">
+                    <a data-aos="fade" data-aos-duration="1500" className="navbar-brand" href="#">T.<span>Urmila</span></a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
                         <span className="navbar-toggler-icon"></span>
                     </button>
