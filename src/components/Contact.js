@@ -20,6 +20,7 @@ function Contact() {
       .then(
         () => {
           console.log('SUCCESS!');
+          console.log("message sent");
         },
         (error) => {
           console.log('FAILED...', error.text);
@@ -36,11 +37,11 @@ function Contact() {
                     </div>
                     <form ref={form} onSubmit={sendEmail} data-aos="fade-left" data-aos-duration="1500" data-aos-delay="1000">
                         <label>Name : </label>
-                        <input type="text" placeholder='Enter Name' id="name" required />
+                        <input type="text" name="user_name" placeholder='Enter Name' id="name" required />
                         <label>Email : </label>
-                        <input type="text" placeholder='Enter Email' id="email" required />
+                        <input type="email" name="user_email" placeholder='Enter Email' id="email" required />
                         <label>Message : </label>
-                        <input type="text" placeholder='Message' id="message" />
+                        <input type="text" name="message" placeholder='Message' id="message" />
                         
                         <button>Submit</button>
                     </form>
