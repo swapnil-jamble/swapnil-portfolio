@@ -13,10 +13,9 @@ function Services(){
                 <div className='services-cards'>
                     <div className='services-card' data-aos="fade-right" data-aos-duration="1500" data-aos-delay="100">
                     <i className='fa-solid fa-code' id="icon"></i>
-                    <h3>B I T</h3>
-                    <p>Vadodara, Gujarat</p>
-                    <p>Certification in</p>
-                    <p>Full Stack Web Development</p>
+                    <h3>Qspider</h3>
+                    <p>Pune, Hadpasar</p>
+                    <p>Full Stack Java Development</p>
                     
                     <a href="#">
                         Read More <i className='fa-solid fa-arrow-right-long'></i>
@@ -24,10 +23,10 @@ function Services(){
                 </div>
                 <div className='services-card' data-aos="fade" data-aos-duration="1500" data-aos-delay="500">
                     <i class="fa-solid fa-computer" id="icon"></i>
-                    <h3>S R M University</h3>
-                    <p>Chennai, Tamilnadu</p>
-                    <p>Ongoing</p>
-                    <p>Master of Computer Application</p>
+                    <h3>Asian College, Science and Commerce</h3>
+                    <p>Narhe, Pune</p>
+            
+                    <p>Master in Computer Science</p>
                     
                     <a href="#">
                         Read More <i className='fa-solid fa-arrow-right-long'></i>
@@ -35,10 +34,10 @@ function Services(){
                 </div>
                 <div className='services-card' data-aos="fade-left" data-aos-duration="1500" data-aos-delay="100">
                     <i class="fa-solid fa-user-graduate" id="icon"></i>
-                    <h3>Pune University</h3>
-                    <p>Nashik, Maharashtra</p>
-                    <p>Pursuing</p>
-                    <p>Bachelor of Science</p>
+                    <h3>Vidya Pratishthan Arts, Commerce & Science</h3>
+                    <p>Baramati, Pune</p>
+          
+                    <p>Bachelor in Computer Science</p>
                     
                     <a href="#">
                         Read More <i className='fa-solid fa-arrow-right-long'></i>

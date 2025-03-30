@@ -18,6 +18,7 @@
     display: grid;
     grid-template-columns: repeat(5,1fr);
     margin-top: 20px;
+    row-gap: 50px;
  }
 .skills .tech-icons{
     gap:50px;
@@ -61,4 +62,16 @@
     .skill-cards{
         width: 100%;
     }
+}
+
+
+.tech-icons {
+    text-align: center;
+}
+
+.tech-name {
+    display: block;
+    margin-top: 5px;
+    font-size: 14px;
+    font-weight: bold;
 }

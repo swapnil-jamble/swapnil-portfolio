@@ -7,14 +7,15 @@ function Footer() {
             <section>
                 <div className='footer'>
                     <div className='links' data-aos="fade" data-aos-duration="1500" data-aos-delay="100">
-                        <h1>Takate Urmila</h1>
+                        <h1>Swapnil Jamble</h1>
                         <div>
                             <p>Do the best you can until you know better...</p>
                             <div className='social'>
-                                <i className='fa-brands fa-linkedin-in'></i>
-                                <i className='fa-brands fa-facebook-f'></i>
-                                <i className='fa-brands fa-instagram'></i>
-                                <i className='fa-brands fa-github'></i>
+                                <a href="https://www.linkedin.com/in/swapnil-jamble" target='_blank'><i className='fa-brands fa-linkedin-in'></i></a>
+                                <a href="https://www.facebook.com/swapnil.jamble.3"><i className='fa-brands fa-facebook-f'></i></a>
+                                <a href="https://www.instagram.com/swapniljamble/"><i className='fa-brands fa-instagram'></i></a>
+                                <a href="https://github.com/swapnil-jamble" target='_blank'><i className='fa-brands fa-github'></i></a>
+                              <a href="https://learnwithnil.blogspot.com" target='_blank'><i className='fa-brands fa-blogger'></i></a>
                             </div>
                         </div>
                     </div>

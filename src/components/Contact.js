@@ -14,8 +14,8 @@ function Contact() {
     e.preventDefault();
 
     emailjs
-      .sendForm('service_urane9q', 'template_nhtotnl', form.current, {
-        publicKey: 'Rv6lqprIjISVJNnKZ',
+      .sendForm('service_9rc3epo', 'template_8zg3z3o', form.current, {
+        publicKey: 'w9pfB1H17A7pYkxi9',
       })
       .then(
         () => {
@@ -51,3 +51,4 @@ function Contact() {
   );
 }
 export default Contact;
+
