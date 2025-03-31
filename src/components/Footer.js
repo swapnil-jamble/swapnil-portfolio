@@ -13,7 +13,7 @@ function Footer() {
                             <div className='social'>
                                 <a href="https://www.linkedin.com/in/swapnil-jamble" target='_blank'><i className='fa-brands fa-linkedin-in'></i></a>
                                 <a href="https://www.facebook.com/swapnil.jamble.3"><i className='fa-brands fa-facebook-f'></i></a>
-                                <a href="https://www.instagram.com/swapniljamble/"><i className='fa-brands fa-instagram'></i></a>
+                                <a href="https://www.instagram.com/swapnil.jamble/"><i className='fa-brands fa-instagram'></i></a>
                                 <a href="https://github.com/swapnil-jamble" target='_blank'><i className='fa-brands fa-github'></i></a>
                               <a href="https://learnwithnil.blogspot.com" target='_blank'><i className='fa-brands fa-blogger'></i></a>
                             </div>

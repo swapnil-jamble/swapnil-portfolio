@@ -16,7 +16,7 @@ function Header(){
                         <div className='social-icons'>
                              <a href="https://www.linkedin.com/in/swapnil-jamble" target='_blank'><i className='fa-brands fa-linkedin' data-aos="fade" data-aos-duration="1500" data-aos-delay="1400"></i></a>
                             <a href="https://github.com/swapnil-jamble" target='_blank'><i className='fa-brands fa-github' data-aos="fade" data-aos-duration="1500" data-aos-delay="1500"></i></a>
-                            <a href="https://www.instagram.com/swapniljamble/"><i className='fa-brands fa-instagram' data-aos="fade" data-aos-duration="1500" data-aos-delay="1200"></i></a>
+                            <a href="https://www.instagram.com/swapnil.jamble/"><i className='fa-brands fa-instagram' data-aos="fade" data-aos-duration="1500" data-aos-delay="1200"></i></a>
                             <a href="https://www.facebook.com/swapnil.jamble.3"><i className='fa-brands fa-facebook' data-aos="fade" data-aos-duration="1500" data-aos-delay="1300"></i></a>
                             <a href="https://learnwithnil.blogspot.com" target='_blank'><i className='fa-brands fa-blogger' data-aos="fade" data-aos-duration="1500" data-aos-delay="1300"></i></a>
 
