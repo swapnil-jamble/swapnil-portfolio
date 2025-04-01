@@ -31,6 +31,9 @@ function Footer() {
                             <li>
                                 <a href="#project">Projects</a>
                             </li>
+                             <li>
+                                <a href="http://myinterview.epizy.com">Book Mock Interview</a>
+                            </li>
                         </ul>
                     </div>
                     <div className='links' data-aos="fade" data-aos-duration="1500" data-aos-delay="500">

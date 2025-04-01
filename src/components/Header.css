@@ -12,6 +12,8 @@
     align-items: center;
     gap:20px;
 }
+
+
 .hero-info{
     width: 55%;
 }
@@ -104,3 +106,6 @@
     }
     
 }
+
+
+

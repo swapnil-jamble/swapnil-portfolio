@@ -26,7 +26,7 @@ function Project(){
                             </div>
                         </div>
                         <div className='project-card' data-aos="fade-right" data-aos-duration="1500" data-aos-delay="700">
-                            <img style={{ height: "262px", width: "auto" }}  src="https://images.unsplash.com/photo-1596495578065-6e0763fa1178?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80" alt="project-img" />
+                            <img style={{ height: "262px"}}  src="https://images.unsplash.com/photo-1596495578065-6e0763fa1178?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80" alt="project-img" />
                             <div>
                                 <h4>Mock Interview Application</h4>
                                 <a href="http://myinterview.epizy.com/" target='_blank'>Live Demo <i className='fa-solid fa-arrow-right-long'></i></a>

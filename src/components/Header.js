@@ -18,12 +18,13 @@ function Header(){
                             <a href="https://github.com/swapnil-jamble" target='_blank'><i className='fa-brands fa-github' data-aos="fade" data-aos-duration="1500" data-aos-delay="1500"></i></a>
                             <a href="https://www.instagram.com/swapnil.jamble/"><i className='fa-brands fa-instagram' data-aos="fade" data-aos-duration="1500" data-aos-delay="1200"></i></a>
                             <a href="https://www.facebook.com/swapnil.jamble.3"><i className='fa-brands fa-facebook' data-aos="fade" data-aos-duration="1500" data-aos-delay="1300"></i></a>
-                            <a href="https://learnwithnil.blogspot.com" target='_blank'><i className='fa-brands fa-blogger' data-aos="fade" data-aos-duration="1500" data-aos-delay="1300"></i></a>
+                            <a id="myInterview" href="https://learnwithnil.blogspot.com" target='_blank'><i className='fa-brands fa-blogger' data-aos="fade" data-aos-duration="1500" data-aos-delay="1300"></i></a>
 
                         </div>
                         <div className='hero-btns'>
                             <a href="#skills"><button data-aos="fade-right" data-aos-duration="1500" data-aos-delay="1600">Hire me</button></a>
                             <a href="#contact"><button data-aos="fade-right" data-aos-duration="1500" data-aos-delay="1700">Contact me</button></a>
+                            <a href="http://myinterview.epizy.com" target="_blank" rel="noopener noreferrer"><button data-aos="fade-right" data-aos-duration="1500" data-aos-delay="1700">Book Mock Interview </button></a>
                         </div>
                     </div>
                     <div className='hero-img' data-aos="fade-left" data-aos-duration="1500" data-aos-delay="1800">
